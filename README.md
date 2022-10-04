@@ -1,0 +1,9 @@
+- 👋 Olá, Me chamo Emerson Max
+- 👀 Hoje Trabalho com Python e Django, Javascript , HTML e CSS, tenho Conhecimentos em React e Typescript e Node   ...
+- 🌱 Atualmente estou apredendo MongoDB, melhorando minha habilidades em react e em node e tambem  aprendendo sobre o HANA ..
+- 📫 Pode me encontrar pelo email Emersonmax19@live.com ...
+- ⚡ Gosto muito de games .. e sou apaixonado por tecnologia....
+<!---
+EmersonMax/EmersonMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
